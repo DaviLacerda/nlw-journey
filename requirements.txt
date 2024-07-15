@@ -1,0 +1,11 @@
+bs4
+langchain-google-genai
+langchain
+langchain-community
+langchain-chroma
+langchain-core
+langchain-text-splitters
+duckduckgo-search
+wikipedia
+langchain-chroma
+langchainhub
